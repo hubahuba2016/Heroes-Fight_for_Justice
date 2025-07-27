@@ -1,0 +1,118 @@
+Nice! That sounds awesome — **"Hero Fight for Justice"** is a powerful name with purpose. Since you're aiming for a **simple FPS RPG**, let’s adapt the concept to fit that style better:
+
+---
+
+## 🎮 **Hero Fight for Justice – Game Concept**
+
+### 🧭 **Game Type**
+
+* **Genre:** First-Person Shooter + RPG (FPS-RPG)
+* **Style:** Low-poly or minimal graphics to keep things simple
+* **View:** First-person perspective (like Skyrim or Borderlands but simpler)
+
+---
+
+## 🧱 Core Gameplay Mechanics
+
+### 🔫 **Combat (FPS Style)**
+
+* Weapon Types:
+
+  * **Pistol** (starter weapon)
+  * **Rifle** (mid-range damage)
+  * **Magic Gauntlet** (shoots fireballs/lightning for mage-type skill)
+* Crosshair aiming + simple hit detection
+* Optional ADS (Aim Down Sight) for rifle
+
+### 🧠 **RPG Elements**
+
+* **Leveling System**
+
+  * Gain XP by defeating enemies and completing quests
+  * Leveling up gives skill points
+* **Skill Tree (simple):**
+
+  * Attack Boost
+  * Health Increase
+  * Special Ability Unlock (like Dash, Heal, or Power Shot)
+* **Inventory**
+
+  * Health potions
+  * Weapon upgrades
+  * Quest items
+
+---
+
+## 🎯 Objectives
+
+* **Main Quest:** Defeat the corrupt government leader controlling the city
+* **Side Quests:** Free prisoners, gather intel, destroy enemy weapons
+
+---
+
+## 🕹️ Controls (Mobile or PC)
+
+* **WASD or joystick:** Move
+* **Mouse/Touch Aim:** Look around
+* **LMB/Tap:** Shoot
+* **RMB/Hold Button:** ADS or Aim Spell
+* **F:** Interact
+* **I:** Open inventory
+* **Q:** Use skill
+* **1, 2, 3:** Switch weapons
+
+---
+
+## 🌍 World Design
+
+* Urban dystopia or desert wasteland theme
+* 3–5 small interconnected areas:
+
+  * Safe Zone / Base Camp
+  * Enemy Outpost
+  * Prison Camp
+  * Final Fortress
+
+---
+
+## 👹 Enemies
+
+* **Grunt Soldiers**
+* **Sniper Bots**
+* **Mutated Beasts (melee enemies)**
+* **Final Boss:** Commander Tyrannax (uses shield + drone support)
+
+---
+
+## 🎨 Art & Tech Stack Suggestions
+
+* **Engine:** Unity (with FPS controller prefab or Starter Assets)
+* **Assets:**
+
+  * Unity Asset Store: Free low-poly FPS weapons
+  * Synty Studios (great low-poly packs, free ones available)
+* **UI:** Health bar, XP bar, ammo counter, mini map (optional)
+
+---
+
+## 📆 MVP Dev Plan (6 Weeks)
+
+| Week | Focus                                    |
+| ---- | ---------------------------------------- |
+| 1    | FPS controller, basic gun shooting       |
+| 2    | Enemy AI + health system                 |
+| 3    | XP/leveling + simple UI                  |
+| 4    | First area + one quest + NPC interaction |
+| 5    | Inventory + skill system                 |
+| 6    | Boss area + game ending + polish         |
+
+---
+
+Want help creating:
+
+* Level map layout?
+* Quest/story text?
+* Unity FPS controller setup?
+* Code snippets for combat or leveling?
+
+Let me know where you want to go next with **Hero Fight for Justice** 💥
